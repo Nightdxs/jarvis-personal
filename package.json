@@ -1,0 +1,14 @@
+{
+  "name": "jarvis-personal",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Asistente personal local en español con ChatGPT mediante Codex, memoria Markdown y herramientas con aprobación",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

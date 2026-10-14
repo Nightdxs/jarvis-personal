@@ -1,0 +1,13 @@
+# Datos privados de cada instalación
+data/
+vault/
+projects/
+.env
+.env.*
+*.log
+*.tmp
+node_modules/
+.codex/
+auth.json
+.DS_Store
+Thumbs.db

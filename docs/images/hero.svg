@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="JARVIS Personal: voz, memoria y herramientas">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09121f"/><stop offset="1" stop-color="#142d38"/></linearGradient><linearGradient id="cyan"><stop stop-color="#6ce5d2"/><stop offset="1" stop-color="#72b8e4"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#5cdac8"><circle cx="1050" cy="180" r="116" opacity=".15"/><circle cx="1050" cy="180" r="86" opacity=".35"/><circle cx="1050" cy="180" r="56" stroke-width="3" opacity=".85"/><path d="M1050 50v30m0 200v30M920 180h30m200 0h30" opacity=".45"/></g>
+<text x="1050" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="52" fill="#a0eee1">J</text>
+<rect x="64" y="51" width="246" height="30" rx="15" fill="#22454b"/><text x="82" y="71" font-family="Arial,sans-serif" font-size="13" fill="#a3f3e5" letter-spacing="2">ASISTENTE PERSONAL LOCAL</text>
+<text x="62" y="163" font-family="Arial,sans-serif" font-weight="700" font-size="66" fill="#eef8ff" letter-spacing="4">JARVIS</text>
+<text x="65" y="213" font-family="Arial,sans-serif" font-size="26" fill="url(#cyan)">Voz. Memoria. Herramientas.</text>
+<text x="65" y="253" font-family="Arial,sans-serif" font-size="17" fill="#a1b7c7">ChatGPT mediante Codex · Tus notas en Markdown · Tú apruebas las acciones</text>
+<path d="M65 290H810" stroke="#31515c"/><text x="65" y="320" font-family="Arial,sans-serif" font-size="13" fill="#9eb6c6">NODE.JS 22+  /  SIN DEPENDENCIAS NPM  /  INTERFAZ EN ESPAÑOL</text>
+</svg>
